@@ -6,8 +6,9 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
+using Wangkanai.Architecture.Server;
 
-namespace Architecture.Server
+namespace Wangkanai.Architecture.Server
 {
     public class Program
     {

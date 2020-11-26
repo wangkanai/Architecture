@@ -3,6 +3,7 @@
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
     <UserSecretsId>Architecture.Server-2E380479-F93E-4032-B8E2-4E9A47C13DA9</UserSecretsId>
+    <RootNamespace>Wangkanai.Architecture.Server</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>

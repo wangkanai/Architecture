@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Architecture.Server.Models
+namespace Wangkanai.Architecture.Server.Models
 {
     public class ApplicationUser : IdentityUser
     {

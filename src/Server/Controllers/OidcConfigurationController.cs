@@ -2,7 +2,7 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 
-namespace Architecture.Server.Controllers
+namespace Wangkanai.Architecture.Server.Controllers
 {
     public class OidcConfigurationController : Controller
     {

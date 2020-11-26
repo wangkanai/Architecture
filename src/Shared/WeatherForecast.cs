@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Architecture.Shared
+namespace Wangkanai.Architecture.Shared
 {
     public class WeatherForecast
     {

@@ -5,9 +5,9 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
-using Architecture.Shared;
+using Wangkanai.Architecture.Shared;
 
-namespace Architecture.Server.Controllers
+namespace Wangkanai.Architecture.Server.Controllers
 {
     [Authorize]
     [ApiController]
